@@ -1,5 +1,3 @@
-Here's the full file structure and updated `README.md` content with emojis:
-
 ### File Structure
 
 ```
